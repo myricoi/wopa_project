@@ -1,0 +1,93 @@
+#floating_logo{
+height: 18%;
+width:18%;
+opacity:0.5;
+background:transparent;
+}
+
+#header_main, #footer_main{
+background: #00bfff;
+}
+.dropdown-content{
+background:#00FF00;
+border: 1px solid purple;
+}
+
+#will_header,#quote_block,#attributation_block,#help_title,#map_header_text,.feature_title_block,#plea_text,.purple{
+color: purple;
+}
+
+.small-logo{
+height:20%;
+width:20%;
+}
+
+.roles{
+background:red;
+opacity:0.6;
+}
+
+
+
+.map_choice_button{
+background:white;
+color:purple;
+}
+
+.map_choice_button:hover{
+background:purple;
+color:white
+}
+
+.audiowide{
+font-family: "Audiowide";
+font-size: large;
+}
+
+#feature_provider_container{
+background-image: linear-gradient(purple, blue,red);
+}
+
+.feature_title_block{
+color: white;
+}
+
+.styled{
+font-size: large;
+border: 2px solid white;
+}
+
+#header_give_button{
+font-size: small;
+}
+
+.block{
+display: block;
+}
+
+.modified{
+margin-top:10px;
+margin-left:75px;
+font-size: 18px;
+}
+
+.chv{
+width:200px;
+height:200px;
+
+}
+
+.footer-logo{
+position:relative;
+left:45%;
+display:block;
+}
+
+.footer-desc{
+margin:10%;
+}
+
+.copyright{
+position:relative;
+left:40%;
+}
